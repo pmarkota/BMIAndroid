@@ -7,4 +7,5 @@
     <string name="normal">Normal</string>
     <string name="e_g_20kg">e.g. 20kg</string>
     <string name="e_g_180cm">e.g. 180cm</string>
+    <string name="please_insert_value">Please insert value</string>
 </resources>
