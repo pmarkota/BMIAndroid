@@ -5,6 +5,7 @@
         <item name="colorPrimary">@color/my_light_primary</item>
         <item name="colorPrimaryDark">@android:color/holo_purple</item>
         <item name="colorOnPrimary">@color/white</item>
+        <item name="android:textSize">@dimen/_25sp</item>
     </style>
 
     <style name="Theme.BodyMassIndex" parent="Base.Theme.BodyMassIndex" />

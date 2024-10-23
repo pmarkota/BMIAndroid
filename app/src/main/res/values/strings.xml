@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BodyMassIndex</string>
+    <string name="insert_weight">Insert weight:</string>
+    <string name="insert_height">Insert height:</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_bmi">Your BMI:</string>
+    <string name="normal">Normal</string>
+    <string name="e_g_20kg">e.g. 20kg</string>
+    <string name="e_g_180cm">e.g. 180cm</string>
 </resources>
